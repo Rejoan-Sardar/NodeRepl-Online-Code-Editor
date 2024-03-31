@@ -39,12 +39,12 @@ To install NodeRepl locally and start coding, follow these simple steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/noderepl.git
+   git clone https://github.com/your-username/NodeRepl-Online-Code-Editor.git
 
 2. Navigate to the project directory:
 
     ```bash
-    cd noderepl
+    cd NodeRepl-Online-Code-Editor
 
 3. Install dependencies and Start the server:
 
