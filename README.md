@@ -46,11 +46,5 @@ To install NodeRepl locally and start coding, follow these simple steps:
     ```bash
     cd NodeRepl-Online-Code-Editor
 
-3. Install dependencies and Start the server:
-
-    ```bash
-    npm install
-
-
-
+3. Install dependencies and Start the server
 
